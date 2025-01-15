@@ -16,7 +16,7 @@ Gender distribution and academic performance.
 Impact of parental education on scores.
 Weekly study hours correlation with performance.
 
-#Technologies Used
+# Technologies Used
 Python
 Pandas: Data manipulation and analysis.
 Matplotlib: Visualizations.
@@ -30,7 +30,7 @@ Parental Marital Status: Marital status of parents.
 Math and Reading Scores: Student performance metrics.
 Weekly Study Hours: Time spent studying each week.
 
-#Insights
+# Insights
 Gender Distribution: Female students are more represented, but performance differences are minimal.
 Parental Education: Higher parental education correlates with better student scores.
 Marital Status: Little to no direct impact on student performance.
